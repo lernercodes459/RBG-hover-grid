@@ -1,3 +1,21 @@
-div {
-    color:rgb(22,34,212);
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container {
+    margin-top: -10px;
+}
+
+.row {
+    height: 53px;
+    width: 1900px;
+    display:flex;
+   
+}
+
+.cell {
+    height: 50px;
+    width: 50px;
+    
 }
